@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
 <h3 align="center">Frontend Developer from Turkiye</h3>
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJiZmQ4ZWEzYThhMjFhNjIyZjE4MzFjY2IxMmY2MzlmNDk5NWVhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJiZmQ4ZWEzYThhMjFhNjIyZjE4MzFjY2IxMmY2MzlmNDk5NWVhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakhan-katdar&label=Profile%20views&color=0e75b6&style=flat" alt="burakhan-katdar" /> </p>
 
 - 🔭 I’m currently working on [Turkcell Geleceği Yazanlar - Frontend](https://github.com/waroi/TurkcellFrontend2023)
