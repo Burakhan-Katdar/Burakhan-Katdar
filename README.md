@@ -1,18 +1,18 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
-<h3 align="center">Frontend Developer from Turkiye</h3>
+<h3 align="center">Product Manager from Turkiye</h3>
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJiZmQ4ZWEzYThhMjFhNjIyZjE4MzFjY2IxMmY2MzlmNDk5NWVhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="50%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakhan-katdar&label=Profile%20views&color=0e75b6&style=flat" alt="burakhan-katdar" /> </p>
 
-- 🔭 I’m currently working on [Turkcell Geleceği Yazanlar - Frontend](https://github.com/waroi/TurkcellFrontend2023)
+- 🔭 I’m currently working on Timus Netrworks Product Management Bootcamp
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Product Management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Burakhan-Katdar](https://github.com/Burakhan-Katdar)
 
 - 📝 I regularly write articles on [https://medium.com/@burakhankatdarr](https://medium.com/@burakhankatdarr)
 
-- 💬 Ask me about **HTML,SASS, JS**
+- 💬 Ask me about **Product Management**
 
 - 📫 How to reach me **burakhankatdarr@gmail.com**
 
