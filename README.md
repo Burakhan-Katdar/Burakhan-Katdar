@@ -1,4 +1,4 @@
-<img align="top" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6396f393-eeb3-4e43-9198-a5ba72445494_933x547.gif" width="100%"/>
+![Header](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6396f393-eeb3-4e43-9198-a5ba72445494_933x547.gif)
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
 <h3 align="center">Product Manager from Turkiye</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*UHigXrG2hH2TOD6qTA7VAA.gif" width="50%"/>
