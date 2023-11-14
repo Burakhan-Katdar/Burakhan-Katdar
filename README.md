@@ -1,4 +1,4 @@
-![Header](C:\Users\Burakhan\Desktop\Timus Bootcamp\gif2.gif) 
+![Header](https://www.beyonddesign.com/wp-content/uploads/2016/05/april1.gif) 
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
 <h3 align="center">Product Manager from Turkiye</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*UHigXrG2hH2TOD6qTA7VAA.gif" width="50%"/>
