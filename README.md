@@ -1,6 +1,6 @@
-![Header](https://www.beyonddesign.com/wp-content/uploads/2016/05/april1.gif) 
+![Header](https://www.linkedin.com/in/burakhankatdar/overlay/background-image/) 
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
-<h3 align="center">Product Manager from Turkiye</h3>
+<h3 align="center">IT Business Analyst from Turkiye</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*UHigXrG2hH2TOD6qTA7VAA.gif" width="50%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakhan-katdar&label=Profile%20views&color=0e75b6&style=flat" alt="burakhan-katdar" /> </p>
 
