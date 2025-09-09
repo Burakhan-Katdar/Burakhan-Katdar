@@ -6,15 +6,13 @@
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*UHigXrG2hH2TOD6qTA7VAA.gif" width="50%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakhan-katdar&label=Profile%20views&color=0e75b6&style=flat" alt="burakhan-katdar" /> </p>
 
-- 🔭 I’m currently working on Timus Netrworks Product Management Bootcamp
-
-- 🌱 I’m currently learning **Product Management**
+- 🔭 I’m currently working on Alesta Innovation
 
 - 👨‍💻 All of my projects are available at [https://github.com/Burakhan-Katdar](https://github.com/Burakhan-Katdar)
 
 - 📝 I regularly write articles on [https://medium.com/@burakhankatdarr](https://medium.com/@burakhankatdarr)
 
-- 💬 Ask me about **Product Management**
+- 💬 Ask me about **Business Analysis**
 
 - 📫 How to reach me **burakhankatdarr@gmail.com**
 
