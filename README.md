@@ -1,4 +1,6 @@
-![Header](https://www.linkedin.com/in/burakhankatdar/overlay/background-image/) 
+
+<img width="4950" height="1238" alt="Professional LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/74e9f602-aaa2-4abb-ba88-740d78ea9c83" />
+
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
 <h3 align="center">IT Business Analyst from Turkiye</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*UHigXrG2hH2TOD6qTA7VAA.gif" width="50%"/>
