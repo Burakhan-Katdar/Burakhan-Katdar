@@ -1,5 +1,5 @@
 ![Header](https://www.linkedin.com/in/burakhankatdar/overlay/background-image/) 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://www.linkedin.com/in/burakhankatdar/overlay/background-image/" alt="javascript"/> 
+<img src="(https://www.linkedin.com/in/burakhankatdar/overlay/background-image/)" alt="javascript"/> 
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
 <h3 align="center">IT Business Analyst from Turkiye</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*UHigXrG2hH2TOD6qTA7VAA.gif" width="50%"/>
